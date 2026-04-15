@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="CodeSnap">
+  <defs>
+    <linearGradient id="cs" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="100%" stop-color="#ff2bd6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#0a0c10"/>
+  <path fill="url(#cs)" d="M112 144h288v72H248v224h-72V216H112z"/>
+</svg>
