@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="CodeSnap">
-  <defs>
-    <linearGradient id="cs" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00f5ff"/>
-      <stop offset="100%" stop-color="#ff2bd6"/>
-    </linearGradient>
-  </defs>
-  <rect width="512" height="512" rx="112" fill="#0a0c10"/>
-  <path fill="url(#cs)" d="M112 144h288v72H248v224h-72V216H112z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="CodeSnap Nexus">
+  <rect width="512" height="512" rx="112" fill="#020302" />
+  <g fill="none" stroke="#2cff6b" stroke-width="14" shape-rendering="crispEdges">
+    <rect x="112" y="112" width="288" height="288" rx="28" />
+    <path d="M160 160h192v64H224v128h-64z" fill="#2cff6b" stroke="none" />
+    <path d="M160 304h64v48h128" />
+  </g>
+  <rect x="24" y="24" width="464" height="464" rx="96" fill="none" stroke="#2cff6b" stroke-opacity=".35" stroke-width="4" />
 </svg>
